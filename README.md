@@ -20,11 +20,9 @@ A hands-on AWS networking project completed as part of the EWB Cloud Labs AWS In
 
 <img width="775" height="659" alt="0" src="https://github.com/user-attachments/assets/78b9cdb2-a0bf-40f0-a1e6-c25c8c2d63d2" />
 
-**Administration:** Laptop → Bastion → App-A or App-B using SSH ProxyJump.
-
-**Application traffic:** App-A ↔ App-B using private IP addresses through the VPC peering connection.
-
-VPC B has no internet gateway. Both application servers are designed to remain private, without public IPv4 addresses.
+- **Administration:** Laptop → Bastion → App-A or App-B using SSH ProxyJump.
+- **Application traffic:** App-A ↔ App-B using private IP addresses through the VPC peering connection.
+- VPC B has no internet gateway. Both application servers are designed to remain private, without public IPv4 addresses.
 
 ## Address Plan
 

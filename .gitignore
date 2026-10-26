@@ -1,0 +1,13 @@
+# AWS credentials and private keys
+*.pem
+*.key
+.aws/
+credentials
+
+# Environment variables
+.env
+.env.*
+
+# OS-generated files
+.DS_Store
+Thumbs.db

@@ -199,16 +199,6 @@ aws-vpc-peering-project/
 ├── architecture.png
 ├── .gitignore
 └── screenshots/
-    ├── 01-vpc-a.png
-    ├── 02-vpc-b.png
-    ├── 03-route-table-public.png
-    ├── 04-route-table-private-a.png
-    ├── 05-route-table-private-b.png
-    ├── 06-peering-connection.png
-    ├── 07-security-groups.png
-    ├── 08-forward-ping.png
-    ├── 09-reverse-ping.png
-    └── 10-ssh-and-cleanup.png
 ```
 
 The screenshot filenames above are a suggested naming convention. Include only files you actually possess, and adjust the names to match your evidence.

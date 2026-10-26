@@ -200,7 +200,7 @@ aws-vpc-peering-project/
 |    ├──    .
 |    ├──    .
 |    ├──    .
-|    └── 11-Image 17
+|    └── 17-Image 17
 ├── .gitignore
 ├── Architecture.png
 ├── Kandikatla_Sailaja_EWB_VPC_Peering.pdf

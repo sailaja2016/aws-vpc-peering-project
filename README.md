@@ -18,7 +18,7 @@ A hands-on AWS networking project completed as part of the EWB Cloud Labs AWS In
 
 ## Architecture
 
-![AWS VPC Peering Architecture](architecture.png)
+<img width="775" height="659" alt="0" src="https://github.com/user-attachments/assets/78b9cdb2-a0bf-40f0-a1e6-c25c8c2d63d2" />
 
 **Administration:** Laptop → Bastion → App-A or App-B using SSH ProxyJump.
 

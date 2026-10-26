@@ -134,8 +134,6 @@ Host ewb-app-b
     ProxyJump ewb-bastion
 ```
 
-Replace `<BASTION_PUBLIC_IP>` with the bastion's actual public IP if reproducing this configuration. The private key must never be uploaded to GitHub.
-
 ## Connectivity Tests
 
 | Test | Purpose | Recorded outcome |
@@ -194,14 +192,20 @@ The report and repository preserve the learning record after the AWS resources h
 
 ```text
 aws-vpc-peering-project/
-├── README.md
-├── Kandikatla_Sailaja_EWB_VPC_Peering.pdf
-├── architecture.png
-├── .gitignore
 └── screenshots/
+|    ├── 01-Image 1
+|    ├── 02-Image 2
+|    ├── 03-Image 3
+|    ├── 04-Image 4
+|    ├──    .
+|    ├──    .
+|    ├──    .
+|    └── 11-Image 17
+├── .gitignore
+├── Architecture.png
+├── Kandikatla_Sailaja_EWB_VPC_Peering.pdf
+└── README.md
 ```
-
-The screenshot filenames above are a suggested naming convention. Include only files you actually possess, and adjust the names to match your evidence.
 
 ## Security Notes
 

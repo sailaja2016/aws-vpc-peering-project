@@ -14,7 +14,7 @@ A hands-on AWS networking project completed as part of the EWB Cloud Labs AWS In
 | Region | Mumbai (`ap-south-1`) |
 | Project | EWB Cloud Labs — AWS VPC Peering |
 | Completed | October 2026 |
-| Full report | `Kandikatla_Sailaja_EWB_VPC_Peering.pdf` |
+| Full report | `KandikatlaSailaja_EWB_VPC_Peering.pdf` |
 
 ## Architecture
 
